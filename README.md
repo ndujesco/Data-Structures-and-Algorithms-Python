@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in Python by Michael T. Goodrich
+# Data Structures and Algorithms in Python by Michael T. Goodrich et al
 
 ## Contents
 
